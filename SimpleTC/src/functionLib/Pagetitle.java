@@ -24,7 +24,7 @@ public class Pagetitle {
 		
 		if (driver.getTitle().contains("Amazon.com")) {
 			
-			System.out.println("Test Case Pass");
+			System.out.println("Test Case Pass........ Final Result");
 		}
 		else {
 			System.out.println("Test Case Fail");
